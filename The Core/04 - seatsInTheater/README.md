@@ -13,4 +13,4 @@ seatsInTheater(nCols, nRows, col, row) = 96.
 
 Here is what the theater looks like:
 
-! [Imgur](https://i.imgur.com/NOlrXD1.png)
+![Imgur](https://i.imgur.com/NOlrXD1.png)
